@@ -1,0 +1,7 @@
+[package]
+name = "risp"
+version = "0.1.0"
+authors = ["Juan Carlos Galan Hernandez <jcgalanh@gmail.com>"]
+
+[dependencies]
+rustyline = "2.1.0"
